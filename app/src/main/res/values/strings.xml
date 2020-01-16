@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tabbed App</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Profile</string>
+    <string name="tab_text_3">Settings</string>
+    <string name="tab_text_4">Child Care</string>
+    <string name="tab_text_5">Hearing</string>
+    <string name="tab_text_6">Devices</string>
+</resources>
